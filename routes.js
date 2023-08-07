@@ -1,6 +1,6 @@
 const express = require("express")
-const router = express.Router()
 const {getAmznProduct,getFktProduct} = require("./controllers/controller")
+const router = express.Router()
 router.route('/amzn').post(getAmznProduct)
 router.route('/fkt').get(getFktProduct)
 

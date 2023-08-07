@@ -12,7 +12,7 @@ app.use(cors())
 app.use("/hi",(req,res)=>{
     res.send("helllo")
 })
-app.use('/api/v1',routes)
+app.use("/api/v1",routes)
 
 const port = process.env.PORT || 5000;
 
