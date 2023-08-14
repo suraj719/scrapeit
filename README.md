@@ -1,4 +1,4 @@
-<h1 align="center" id="title">scrapeit</h1>
+<h1 align="center" id="title">scrapeit🔍</h1>
 
 <p id="description">The scrapeit API is a powerful tool designed to effortlessly gather data from two of the largest online marketplaces – Flipkart and Amazon. With seamless integration this API enables developers to extract product information price rating and product thumbnail all in a structured and easy-to-use format. Unlock valuable insights compare trends and make informed decisions using the wealth of data at your fingertips.</p>
 
@@ -8,7 +8,7 @@
 
 <img src="https://github.com/suraj719/scrapeit/assets/71000909/a0fffc99-852e-43a8-906f-604db910ed11" alt="project-screenshot" width="400" height="400/">
 
-<h2>🧐 Features</h2>
+<h2>🚀 Features</h2>
 
 Here're some of the project's best features:
 
